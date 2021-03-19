@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MovieCollection" />
+          <option value="project.classes.firecloud_connect" />
+          <option value="project.main.classes" />
+          <option value="bylo.bylomapview.storemarker" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
